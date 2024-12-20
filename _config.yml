@@ -1,2 +1,2 @@
-source: pages
-destination: pages/_site
+source: .
+destination: _site
